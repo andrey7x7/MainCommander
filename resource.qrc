@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>img/fold_1.png</file>
+        <file>img/file_1.png</file>
+    </qresource>
+</RCC>
